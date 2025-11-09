@@ -59,4 +59,8 @@ O Front-End é a interface visual onde você interage. Como ele é feito apenas 
 
 Com a **API rodando no terminal** e o **`index.html` aberto no navegador**, você pode:
 
-1.
+1.  Preencher os campos (Nome, Preço e Descrição).
+2.  Clicar em **"Adicionar"**.
+3.  O produto aparecerá na lista abaixo, confirmando que a comunicação entre Front-End e Back-End está funcionando perfeitamente!
+
+**(Lembrete:** Os dados são salvos apenas na **memória RAM**. Se você fechar o terminal, a lista será apagada.)
